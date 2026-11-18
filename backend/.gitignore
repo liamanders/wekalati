@@ -1,0 +1,11 @@
+node_modules/
+**/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+backend/uploads/
+.env
+.env.*
+!.env.example
+!**/.env.example
+.vercel/
+**/.vercel/
